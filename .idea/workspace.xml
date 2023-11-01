@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36e5f5c6-e68f-477f-89db-f45c9f8b9b8c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/1. Learn Word Embedding-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/1.MlFlow_Intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.MlFlow_Intro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/25ac9cc9d1a44167a5f1f3e5868c4ce5/artifacts/model/MLmodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/25ac9cc9d1a44167a5f1f3e5868c4ce5/artifacts/model/conda.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/25ac9cc9d1a44167a5f1f3e5868c4ce5/artifacts/model/model.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/25ac9cc9d1a44167a5f1f3e5868c4ce5/artifacts/model/python_env.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/25ac9cc9d1a44167a5f1f3e5868c4ce5/artifacts/model/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/25ac9cc9d1a44167a5f1f3e5868c4ce5/meta.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/25ac9cc9d1a44167a5f1f3e5868c4ce5/metrics/mae" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/25ac9cc9d1a44167a5f1f3e5868c4ce5/metrics/r2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/25ac9cc9d1a44167a5f1f3e5868c4ce5/metrics/rmse" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/25ac9cc9d1a44167a5f1f3e5868c4ce5/params/alpha" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/25ac9cc9d1a44167a5f1f3e5868c4ce5/params/l1_ratio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/25ac9cc9d1a44167a5f1f3e5868c4ce5/tags/mlflow.log-model.history" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/25ac9cc9d1a44167a5f1f3e5868c4ce5/tags/mlflow.runName" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/25ac9cc9d1a44167a5f1f3e5868c4ce5/tags/mlflow.source.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/25ac9cc9d1a44167a5f1f3e5868c4ce5/tags/mlflow.source.type" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/25ac9cc9d1a44167a5f1f3e5868c4ce5/tags/mlflow.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/817051a8c58e410785c19750d861f220/artifacts/model/MLmodel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/817051a8c58e410785c19750d861f220/artifacts/model/conda.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/817051a8c58e410785c19750d861f220/artifacts/model/model.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/817051a8c58e410785c19750d861f220/artifacts/model/python_env.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/817051a8c58e410785c19750d861f220/artifacts/model/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/817051a8c58e410785c19750d861f220/meta.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/817051a8c58e410785c19750d861f220/metrics/mae" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/817051a8c58e410785c19750d861f220/metrics/r2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/817051a8c58e410785c19750d861f220/metrics/rmse" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/817051a8c58e410785c19750d861f220/params/alpha" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/817051a8c58e410785c19750d861f220/params/l1_ratio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/817051a8c58e410785c19750d861f220/tags/mlflow.log-model.history" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/817051a8c58e410785c19750d861f220/tags/mlflow.runName" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/817051a8c58e410785c19750d861f220/tags/mlflow.source.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/817051a8c58e410785c19750d861f220/tags/mlflow.source.type" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/817051a8c58e410785c19750d861f220/tags/mlflow.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlruns/0/meta.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +33,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698881243765</updated>
-      <workItem from="1698881246105" duration="124000" />
+      <workItem from="1698881246105" duration="432000" />
     </task>
     <servers />
   </component>
