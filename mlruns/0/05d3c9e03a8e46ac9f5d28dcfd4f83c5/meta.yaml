@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Admin/Desktop/Artificial%20NN/week%208/mlflow/mlruns/0/05d3c9e03a8e46ac9f5d28dcfd4f83c5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05d3c9e03a8e46ac9f5d28dcfd4f83c5
+run_name: rogue-shrew-972
+run_uuid: 05d3c9e03a8e46ac9f5d28dcfd4f83c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698882612230
+status: 1
+tags: []
+user_id: roccyk

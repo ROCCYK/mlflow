@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Admin/Desktop/Artificial%20NN/week%208/mlflow/mlruns/0/5de5958824b34b0cb253f8c3139b123a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5de5958824b34b0cb253f8c3139b123a
+run_name: auspicious-tern-275
+run_uuid: 5de5958824b34b0cb253f8c3139b123a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698882698280
+status: 1
+tags: []
+user_id: roccyk

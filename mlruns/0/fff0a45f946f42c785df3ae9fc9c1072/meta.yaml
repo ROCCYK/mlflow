@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Admin/Desktop/Artificial%20NN/week%208/mlflow/mlruns/0/fff0a45f946f42c785df3ae9fc9c1072/artifacts
+end_time: 1698882535117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fff0a45f946f42c785df3ae9fc9c1072
+run_name: chill-elk-236
+run_uuid: fff0a45f946f42c785df3ae9fc9c1072
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698882534042
+status: 4
+tags: []
+user_id: roccyk
