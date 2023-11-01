@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/Admin/Desktop/Artificial%20NN/week%208/mlruns/0/25ac9cc9d1a44167a5f1f3e5868c4ce5/artifacts
+end_time: 1698879782375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25ac9cc9d1a44167a5f1f3e5868c4ce5
+run_name: amusing-newt-40
+run_uuid: 25ac9cc9d1a44167a5f1f3e5868c4ce5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698879778168
+status: 3
+tags: []
+user_id: roccyk
